@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.FocusAssistant" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/rainbow_primary</item>
+        <item name="colorSecondary">@color/rainbow_secondary</item>
+        <item name="android:windowBackground">@drawable/rainbow_gradient_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>

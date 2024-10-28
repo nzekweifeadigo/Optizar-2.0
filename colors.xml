@@ -1,0 +1,11 @@
+<resources>
+    <color name="rainbow_red">#FF355E</color>
+    <color name="rainbow_orange">#FF9933</color>
+    <color name="rainbow_yellow">#FFD700</color>
+    <color name="rainbow_green">#00FF7F</color>
+    <color name="rainbow_blue">#1E90FF</color>
+    <color name="rainbow_purple">#9B30FF</color>
+
+    <color name="rainbow_primary">@color/rainbow_blue</color>
+    <color name="rainbow_secondary">@color/rainbow_purple</color>
+</resources>
